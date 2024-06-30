@@ -9,6 +9,7 @@ An online platform for ordering food from various restaurants. Built with PHP, t
 - **Order Management**: Place orders, track order status, and view order history.
 - **Payment Integration**: Secure payment processing via popular gateways.
 - **Admin Dashboard**: Manage users, restaurants, and orders.
+- **/admin**:*usernmae=password=admin*
 
 ## Installation
 
